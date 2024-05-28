@@ -56,6 +56,26 @@ rsa库无法使用时，尝试使用```requirements.txt```文件；若无法运�
 
 其他情况请自行解决。
 
+## 课程项目实践
+
+通过本综合实践，学生将实际应用国密算法，以加深对课程中介绍的对称加密、非对称加密/公钥加密、哈希算法、数字签名等密码学概念的理解。
+
+要求使用SM2、SM3、SM4等加密算法。
+
+其余信息详见[RSA实现要求文档](./rsa/requirement_rsa.md)。
+
+### 项目说明
+
+详见[课程项目说明文档](./classProject/README.md)
+
+### 命令行具体格式
+
+详见[课程项目说明文档](./classProject/README.md)和[命令示例文档](./classProject/toRun.md)
+
+### 参考
+
+感谢这篇文章作者提供的思路：[Python生成SM2公私密钥对进行签名验签](https://samo.fun/2021/03/24/Python_Generate_SM2_key/)
+
 ## 说明
 
 本项目仅供学习使用。
