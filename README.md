@@ -62,8 +62,6 @@ rsa库无法使用时，尝试使用```requirements.txt```文件；若无法运�
 
 要求使用SM2、SM3、SM4等加密算法。
 
-其余信息详见[RSA实现要求文档](./rsa/requirement_rsa.md)。
-
 ### 项目说明
 
 详见[课程项目说明文档](./classProject/README.md)
