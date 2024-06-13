@@ -4,9 +4,9 @@
 
 ### 随机生成密钥
 
-- 随机生成SM2密钥对```python main.py -sk -pk -r```
+- 随机生成SM2密钥对```python main.py -sk private_key_path -pk public_key_path -r```
 
-- 随机生成SM4(CBC)密钥```python main.py -k -iv -r```
+- 随机生成SM4(CBC)密钥```python main.py -k key_path -iv iv_path -r```
 
 ### 发送方加密
 
